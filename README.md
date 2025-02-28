@@ -7,8 +7,7 @@ Internals:
 <img width="100%" align="left" src="radio-open.jpg">
 
 Here is a video of it in action:
-[![Practical RF](video_title.jpg)]
-(https://youtu.be/Lg08lZGyM_0?si=N3KkYFxLwWdN0bMW "Simple FM Receiver")
+[![Practical RF](video_title.jpg)](https://youtu.be/Lg08lZGyM_0?si=N3KkYFxLwWdN0bMW "Simple FM Receiver")
 
 This is the top view of the circuit board:
 <img width="100%" align="left" src="radio-pcb-top-render.png">
